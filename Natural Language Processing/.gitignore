@@ -1,0 +1,9 @@
+*/__pycache__/*
+*/.ipynb_checkpoints/*
+homework/D07 data/*
+homework/averaged_perceptron_tagger/*
+homework/D20_KNN 實作_spam_data/*
+新聞分類器/data/*
+Rule-based chatbot/LineBot/config.ini
+Rule-based chatbot/LineBot/.ipynb_checkpoints/*
+Rule-based chatbot/LineBot/__pycache__/*
