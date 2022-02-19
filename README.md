@@ -1,5 +1,5 @@
 # Toshi's Portfolio
-> 此repo為個人練習所用，包含資料分析、影像辨識、自然語言處理等。
+> 此repo為個人練習所用，包含資料分析、影像辨識、自然語言處理等。  
 > 內容些許為CupoyAI共學社群所有，具著作權保護。  
 > 程式代碼歡迎轉載，但勿作為商業上用途使用。  
 
@@ -39,12 +39,20 @@
 │ 　　　　　10 [K最近鄰居演算法](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/10%20K-nearest%20neighbors.ipynb) - 套件class　套件e1071  
 │ 　　　　　11 [單純貝氏](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/11%20Naive%20Bayes%20classifier.ipynb) - 套件klaR  
 │ 　　　　　12 [回歸模型](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/12%20Regression.ipynb) - 二元、多元logistic迴歸(套件nnet)　多元線性迴歸、Ridge、Lasso、彈性網路(套件glmnet)  
-│ 　　　　　13 [回歸分析(散裝貨運)](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/13%20Regression%20Analysis(Bulk%20carrier).ipynb) - 多元線性迴歸　MARS模型(套件earth)　Fast-KNN(套件FNN)
-│ 　　　　　14 檢定 - 
-│ 　　　　　15 
-│ 　　　　　
-│ 　　　　　
-│          
+│ 　　　　　13 [回歸分析(散裝貨運)](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/13%20Regression%20Analysis(Bulk%20carrier).ipynb) - 多元線性迴歸　MARS模型(套件earth)　Fast-KNN(套件FNN)  
+│ 　　　　　14 檢定  
+│ 　　　　　15 變異數分析  
+│ 　　　　　16 決策樹  
+│ 　　　　　17 隨機森林  
+│ 　　　　　18 Boosting  
+│ 　　　　　19 梯度提升  
+│ 　　　　　20 ROC圖  
+│ 　　　　　21 交叉驗證  
+│ 　　　　　22 類神經網路  
+│ 　　　　　23 支援向量機  
+│ 　　　　　24 主成分分析  
+│ 　　　　　25 時間序列分析  
+│  
 ├─Machine Vision  
 │　└─Praticing  
 │　　　　　 D01 ~ D07 OpenCV - 
