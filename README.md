@@ -29,17 +29,17 @@
 │ 　　　　　02 視覺化  
 │ 　　　　　03 [資料分析](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/03%20Dataset%20analysis.ipynb) -
 移動平均法　指數平滑法　偵測離群值  
-│ 　　　　　04 關聯規則實作 - 套件arules (
+│ 　　　　　04 ~ 06 關聯規則實作 - 套件arules (
   [Titanic](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/04%20Association%20rule%20(Titanic).ipynb)　
   [Grocery](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/05%20Association%20rule%20(Grocery).ipynb)　
   [Indiana Pima diabetes](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/06%20Association%20rule%20(Indiana%20Pima%20diabetes).ipynb))   
 │ 　　　　　07 [階層式聚類](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/07%20Hierarchical%20clustering.ipynb) - 套件cluster  
-│ 　　　　　08 [切割式分群](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/08%20Partitional%20clustering.ipynb) - K-means K-medoids (套件cluster)　C-means (套件e1071)
-│ 　　　　　[09] Gaussian mixture model.ipynb  
-│ 　　　　　[10] K-nearest neighbors.ipynb  
-│ 　　　　　[11] Naive Bayes classifier.ipynb
-│ 　　　　　[12] Regression.ipynb  
-│ 　　　　　[13] Regression Analysis(Bulk carrier).ipynb  
+│ 　　　　　08 [切割式分群](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/08%20Partitional%20clustering.ipynb) - K-means K-medoids (套件cluster)　C-means (套件e1071)  
+│ 　　　　　09 [高斯混合模型](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/09%20Gaussian%20mixture%20model.ipynb) - 套件mclust  
+│ 　　　　　10 [K最近鄰居演算法](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/10%20K-nearest%20neighbors.ipynb) - 套件class　套件e1071  
+│ 　　　　　11 [單純貝氏](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/11%20Naive%20Bayes%20classifier.ipynb) - 套件klaR  
+│ 　　　　　12 [回歸模型](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/12%20Regression.ipynb) - 二元、多元logistic迴歸(套件nnet)　多元線性迴歸、Ridge、Lasso、彈性網路(套件glmnet)  
+│ 　　　　　13 [回歸分析(散裝貨運)](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/13%20Regression%20Analysis(Bulk%20carrier).ipynb) - 多元線性迴歸　MARS模型(套件earth)　Fast-KNN(套件FNN)
 │ 　　　　　14 檢定 - 
 │ 　　　　　15 
 │ 　　　　　
