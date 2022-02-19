@@ -67,7 +67,7 @@
 │　　　　　 D17 ~ D19 　搭建深度學習神經網路 - 
   [Vgg16](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D17%20%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E4%BD%9C%EF%BC%9AClassic%20CNN%20Backbone.ipynb)　
   [InceptionV1-V3](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D18%20InceptionV1-V3.ipynb)  
-│　　　　　 　　　　　　　　　　　　　　　　　 [殘差網路(ResNetV1-V2、InceptionV4、Inception-ResNet)](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D19%20ResNetV1-V2%E3%80%81InceptionV4%E3%80%81Inception-ResNet.ipynb)  
+│　　　　　 　　　　　　　　　　　　　　　　　[殘差網路(ResNetV1-V2、InceptionV4、Inception-ResNet)](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D19%20ResNetV1-V2%E3%80%81InceptionV4%E3%80%81Inception-ResNet.ipynb)  
 │　　　　　 D20 　　　　[遷移學習](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D20%20Transfer%20learning.ipynb)  
 │　　　　　 D21 　　　　[CNN分類器實作(驗證碼辨識)](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D21%20Breaking%20Captchas%20with%20a%20CNN.ipynb) - captcha GRU  
 │　　　　　 D24 ~ D27　 物件偵測 - 
