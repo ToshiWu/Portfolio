@@ -29,12 +29,12 @@
 │ 　　　　　02 視覺化  
 │ 　　　　　03 [資料分析](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/03%20Dataset%20analysis.ipynb) -
 移動平均法　指數平滑法　偵測離群值  
-│ 　　　　　04 關聯規則實作 - arules (
+│ 　　　　　04 關聯規則實作 - 套件arules (
   [Titanic](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/04%20Association%20rule%20(Titanic).ipynb)　
   [Grocery](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/05%20Association%20rule%20(Grocery).ipynb)　
   [Indiana Pima diabetes](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/06%20Association%20rule%20(Indiana%20Pima%20diabetes).ipynb))   
-│ 　　　　　07 [階層式聚類](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/07%20Hierarchical%20clustering.ipynb) - clusterSim  
-│ 　　　　　[08] Partitional clustering.ipynb  
+│ 　　　　　07 [階層式聚類](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/07%20Hierarchical%20clustering.ipynb) - 套件cluster  
+│ 　　　　　08 [切割式分群](https://github.com/ToshiWu/Portfolio/blob/main/Data%20Analysis/Rcode/08%20Partitional%20clustering.ipynb) - K-means K-medoids (套件cluster)　C-means (套件e1071)
 │ 　　　　　[09] Gaussian mixture model.ipynb  
 │ 　　　　　[10] K-nearest neighbors.ipynb  
 │ 　　　　　[11] Naive Bayes classifier.ipynb
@@ -58,8 +58,8 @@
 │　　　　　 D16 [圖像增強](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D16%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20Data%20Augmentation.ipynb) - Keras-ImageDataGenerator  
 │　　　　　 D17 ~ D19 搭建經典深度學習神經網路架構 - 
   [Vgg16](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D17%20%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E4%BD%9C%EF%BC%9AClassic%20CNN%20Backbone.ipynb)　
-  [InceptionV1-V3](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D18%20InceptionV1-V3.ipynb)　
-  [殘差網路(ResNetV1-V2、InceptionV4、Inception-ResNet)](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D19%20ResNetV1-V2%E3%80%81InceptionV4%E3%80%81Inception-ResNet.ipynb)  
+  [InceptionV1-V3](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D18%20InceptionV1-V3.ipynb)  
+│　　　　　 　　　　　　　　　　　　　　　　　　　　  [殘差網路(ResNetV1-V2、InceptionV4、Inception-ResNet)](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D19%20ResNetV1-V2%E3%80%81InceptionV4%E3%80%81Inception-ResNet.ipynb)  
 │　　　　　 D20 [遷移學習](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D20%20Transfer%20learning.ipynb)  
 │　　　　　 D21 [CNN分類器實作(驗證碼辨識)](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D21%20Breaking%20Captchas%20with%20a%20CNN.ipynb) - captcha GRU  
 │　　　　　 D24 ~ D27 物件偵測 - 
@@ -84,11 +84,11 @@
 　　│　　　 D06 ~ D14 文字預處理 - 
   [jieba斷詞](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D06%20%E4%BD%BF%E7%94%A8%E7%B5%90%E5%B7%B4%E9%80%B2%E8%A1%8C%E4%B8%AD%E6%96%87%E6%96%B7%E8%A9%9E.ipynb)　
   [CkipTagger斷詞](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D06%20%E4%BD%BF%E7%94%A8%E7%B5%90%E5%B7%B4%E9%80%B2%E8%A1%8C%E4%B8%AD%E6%96%87%E6%96%B7%E8%A9%9E.ipynb)　
-  [N-Gram](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D09%20%E5%9F%BA%E7%A4%8E%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%9AN-Gram.ipynb)　
-  [詞性標註(jieba.posseg/nltk)](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D11%20%E8%A9%9E%E6%80%A7%E6%A8%99%E8%A8%BB(Part-of-speech%20tagging).ipynb)　
+  [N-Gram](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D09%20%E5%9F%BA%E7%A4%8E%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%9AN-Gram.ipynb)　  
+　　│　　　　　　　　　　　　　　 [詞性標註(jieba.posseg/nltk)](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D11%20%E8%A9%9E%E6%80%A7%E6%A8%99%E8%A8%BB(Part-of-speech%20tagging).ipynb)　
   [詞袋模型](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D12%20%E8%A9%9E%E8%A2%8B%E6%A8%A1%E5%9E%8B(Bag-of-words).ipynb)　
   [詞幹提取(nltk.stem)](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D13%20%E8%A9%9E%E5%B9%B9%EF%BC%8F%E8%A9%9E%E6%A2%9D%E6%8F%90%E5%8F%96%EF%BC%9AStemming%20and%20Lemmatization.ipynb)  
-　　│　　　 D15 ~ D17 [計數方法詞向量](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D17%20%E8%A8%88%E6%95%B8%E6%96%B9%E6%B3%95%E8%A9%9E%E5%90%91%E9%87%8F%E5%AF%A6%E4%BD%9C%E4%BB%8B%E7%B4%B9.ipynb) - TFIDF　餘弦相似性　共現矩陣與PPMI矩陣　SVD降維(nltk.TruncatedSVD)　KNN(nltk)  
+　　│　　　 D15 ~ D17 [計數方法詞向量](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D17%20%E8%A8%88%E6%95%B8%E6%96%B9%E6%B3%95%E8%A9%9E%E5%90%91%E9%87%8F%E5%AF%A6%E4%BD%9C%E4%BB%8B%E7%B4%B9.ipynb) - TFIDF　餘弦相似性　共現矩陣與PPMI矩陣　SVD降維(TruncatedSVD)  
 　　│　　　 D18 ~ D20 K最近鄰居演算法 - 
     [K-Fold(sklearn)](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D19%20K-%E8%BF%91%E9%84%B0%E6%BC%94%E7%AE%97%E6%B3%95.ipynb)　
     [實作基於nltk](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D20%20KNN%E5%AF%A6%E4%BD%9C.ipynb)  
