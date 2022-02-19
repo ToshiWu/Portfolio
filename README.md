@@ -93,7 +93,7 @@
   [jieba斷詞](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D06%20%E4%BD%BF%E7%94%A8%E7%B5%90%E5%B7%B4%E9%80%B2%E8%A1%8C%E4%B8%AD%E6%96%87%E6%96%B7%E8%A9%9E.ipynb)　
   [CkipTagger斷詞](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D06%20%E4%BD%BF%E7%94%A8%E7%B5%90%E5%B7%B4%E9%80%B2%E8%A1%8C%E4%B8%AD%E6%96%87%E6%96%B7%E8%A9%9E.ipynb)　
   [N-Gram](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D09%20%E5%9F%BA%E7%A4%8E%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%9AN-Gram.ipynb)　  
-　　│　　　 　　　　　　　　　　　 [詞性標註(jieba.posseg/nltk)](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D11%20%E8%A9%9E%E6%80%A7%E6%A8%99%E8%A8%BB(Part-of-speech%20tagging).ipynb)　
+　　│　　　　　　　　　　　　　　　 [詞性標註(jieba.posseg/nltk)](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D11%20%E8%A9%9E%E6%80%A7%E6%A8%99%E8%A8%BB(Part-of-speech%20tagging).ipynb)　
   [詞袋模型](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D12%20%E8%A9%9E%E8%A2%8B%E6%A8%A1%E5%9E%8B(Bag-of-words).ipynb)　
   [詞幹提取(nltk.stem)](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D13%20%E8%A9%9E%E5%B9%B9%EF%BC%8F%E8%A9%9E%E6%A2%9D%E6%8F%90%E5%8F%96%EF%BC%9AStemming%20and%20Lemmatization.ipynb)  
 　　│　　　 D15 ~ D17　 [計數方法詞向量](https://github.com/ToshiWu/Portfolio/blob/main/Natural%20Language%20Processing/Praticing/D17%20%E8%A8%88%E6%95%B8%E6%96%B9%E6%B3%95%E8%A9%9E%E5%90%91%E9%87%8F%E5%AF%A6%E4%BD%9C%E4%BB%8B%E7%B4%B9.ipynb) - TFIDF　餘弦相似性　共現矩陣與PPMI矩陣　SVD降維(TruncatedSVD)  
