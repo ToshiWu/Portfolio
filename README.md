@@ -82,8 +82,9 @@
 │　│　　　　D43 ~ D34　 Mobilenet - 
   [Mobilenetv1](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D43%20Mobilenet.ipynb)　
   [Mobilenetv2](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D44%20Mobilenetv2.ipynb)  
+│　│  
 │　└─[金屬瑕疵檢測](https://github.com/ToshiWu/Portfolio/tree/main/Machine%20Vision/Welding%20Defects%20Mask-RCNN) - Mask-RCNN (改寫自 
-[matterport](https://github.com/matterport/Mask_RCNN)&
+[matterport](https://github.com/matterport/Mask_RCNN) & 
 [leekunhee](https://github.com/leekunhee/Mask_RCNN))  
 │  
 └─Natural Language Processing  
