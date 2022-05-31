@@ -54,34 +54,37 @@
 │ 　　　　　25 時間序列分析  
 │  
 ├─Machine Vision  
-│　└─Praticing  
-│　　　　　 D01 ~ D07　 OpenCV - 
+│　├─Praticing  
+│　│　　　　D01 ~ D07　 OpenCV - 
   [仿射變換](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D06%20%E4%BB%BF%E5%B0%84%E8%AE%8A%E6%8F%9B%E7%9A%84%E6%A6%82%E5%BF%B5%E8%88%87%E5%AF%A6%E4%BD%9C.ipynb)　
   [透視變換](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D07%20Perspective%20transformation%20%E6%A6%82%E5%BF%B5%E8%88%87%E5%AF%A6%E4%BD%9C.ipynb)  
-│　　　　　 D08 　　　　[降噪與邊緣檢測](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D08%20Filter%20%E7%9A%84%E6%A6%82%E5%BF%B5%E8%88%87%E5%AF%A6%E4%BD%9C%E5%A0%B4%E6%99%AF%20(Sobel%2C%20Gaussian%20Blur).ipynb) - GaussianBlur　MedianBlur　Sobel　Canny  
-│　　　　　 D09 　　　　尺度不變特徵轉換演算法(SIFT) - 
+│　│　　　　D08 　　　　[降噪與邊緣檢測](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D08%20Filter%20%E7%9A%84%E6%A6%82%E5%BF%B5%E8%88%87%E5%AF%A6%E4%BD%9C%E5%A0%B4%E6%99%AF%20(Sobel%2C%20Gaussian%20Blur).ipynb) - GaussianBlur　MedianBlur　Sobel　Canny  
+│　│　　　　D09 　　　　尺度不變特徵轉換演算法(SIFT) - 
   [特徵提取](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D09%20SIFT%20%E4%BB%8B%E7%B4%B9%E8%88%87%E5%AF%A6%E4%BD%9C%20(feature%20extractor).ipynb)
   [關鍵點比對](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D10%20SIFT%20%E5%85%B6%E4%BB%96%E6%87%89%E7%94%A8%20(keypoint%20matching).ipynb)  
-│　　　　　 D11 ~ D15　 CNN分類器架構 - [手刻Keras-CNN分類器](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D15%20%E8%A8%93%E7%B7%B4%E4%B8%80%E5%80%8BCNN%E5%88%86%E9%A1%9E%E5%99%A8%EF%BC%9ACifar10%E7%82%BA%E4%BE%8B.ipynb)  
-│　　　　　 D16 　　　　[圖像增強](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D16%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20Data%20Augmentation.ipynb) - Keras-ImageDataGenerator  
-│　　　　　 D17 ~ D19 　搭建深度學習神經網路 - 
+│　│　　　　D11 ~ D15　 CNN分類器架構 - [手刻Keras-CNN分類器](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D15%20%E8%A8%93%E7%B7%B4%E4%B8%80%E5%80%8BCNN%E5%88%86%E9%A1%9E%E5%99%A8%EF%BC%9ACifar10%E7%82%BA%E4%BE%8B.ipynb)  
+│　│　　　　D16 　　　　[圖像增強](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D16%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20Data%20Augmentation.ipynb) - Keras-ImageDataGenerator  
+│　│　　　　D17 ~ D19 　搭建深度學習神經網路 - 
   [Vgg16](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D17%20%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E7%90%86%E8%AB%96%E8%88%87%E5%AF%A6%E4%BD%9C%EF%BC%9AClassic%20CNN%20Backbone.ipynb)　
   [InceptionV1-V3](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D18%20InceptionV1-V3.ipynb)  
-│　　　　　 　　　　　　　　　　　　　　　　　[殘差網路(ResNetV1-V2、InceptionV4、Inception-ResNet)](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D19%20ResNetV1-V2%E3%80%81InceptionV4%E3%80%81Inception-ResNet.ipynb)  
-│　　　　　 D20 　　　　[遷移學習](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D20%20Transfer%20learning.ipynb)  
-│　　　　　 D21 　　　　[CNN分類器實作(驗證碼辨識)](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D21%20Breaking%20Captchas%20with%20a%20CNN.ipynb) - captcha GRU  
-│　　　　　 D24 ~ D27　 物件偵測 - 
+│　│　　　　　　　　　　　　　　　　　　　　　[殘差網路(ResNetV1-V2、InceptionV4、Inception-ResNet)](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D19%20ResNetV1-V2%E3%80%81InceptionV4%E3%80%81Inception-ResNet.ipynb)  
+│　│　　　　D20 　　　　[遷移學習](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D20%20Transfer%20learning.ipynb)  
+│　│　　　　D21 　　　　[CNN分類器實作(驗證碼辨識)](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D21%20Breaking%20Captchas%20with%20a%20CNN.ipynb) - captcha GRU  
+│　│　　　　D24 ~ D27　 物件偵測 - 
   [IoU](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D24%20Region%20Proposal%E3%80%81IOU%20%E6%A6%82%E5%BF%B5.ipynb)　
   [Region Proposal Network](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D25%20RPN%20%E6%9E%B6%E6%A7%8B%E4%BB%8B%E7%B4%B9.ipynb)　
   [Bounding Box](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D26%20Bounding%20Box%20Regression%20%E5%8E%9F%E7%90%86.ipynb)　
   [非極大值抑制](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D27%20Non-Maximum%20Suppression%20(NMS)%20%E5%8E%9F%E7%90%86.ipynb)  
-│　　　　　 D28 ~ D38　 YOLO模型架構 - 
+│　│　　　　D28 ~ D38　 YOLO模型架構 - 
   [yolov3](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D36%20%E4%BD%BF%E7%94%A8%20YOLOv3%20%E5%81%B5%E6%B8%AC%E5%9C%96%E7%89%87%E5%8F%8A%E5%BD%B1%E7%89%87%E4%B8%AD%E7%9A%84%E7%89%A9%E4%BB%B6.ipynb)　
   [yolov3-tiny](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D37%20%E6%9B%B4%E5%BF%AB%E7%9A%84%E6%AA%A2%E6%B8%AC%E6%A8%A1%E5%9E%8B%20-%20tiny%20YOLOv3.ipynb)  
-│　　　　　 D39 ~ D41　 [人臉關鍵點實作](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D41%20%E8%A8%93%E7%B7%B4%E4%BA%BA%E8%87%89%E9%97%9C%E9%8D%B5%E9%BB%9E%E6%AA%A2%E6%B8%AC%E7%B6%B2%E8%B7%AF.ipynb)  
-│　　　　　 D43 ~ D34　 Mobilenet - 
+│　│　　　　D39 ~ D41　 [人臉關鍵點實作](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D41%20%E8%A8%93%E7%B7%B4%E4%BA%BA%E8%87%89%E9%97%9C%E9%8D%B5%E9%BB%9E%E6%AA%A2%E6%B8%AC%E7%B6%B2%E8%B7%AF.ipynb)  
+│　│　　　　D43 ~ D34　 Mobilenet - 
   [Mobilenetv1](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D43%20Mobilenet.ipynb)　
   [Mobilenetv2](https://github.com/ToshiWu/Portfolio/blob/main/Machine%20Vision/Praticing/D44%20Mobilenetv2.ipynb)  
+│　└─[金屬瑕疵檢測](https://github.com/ToshiWu/Portfolio/tree/main/Machine%20Vision/Welding%20Defects%20Mask-RCNN) - Mask-RCNN (改寫自 
+[matterport](https://github.com/matterport/Mask_RCNN)&
+[leekunhee](https://github.com/leekunhee/Mask_RCNN))  
 │  
 └─Natural Language Processing  
 　　├─Praticing  
